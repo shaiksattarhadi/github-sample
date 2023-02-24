@@ -11,7 +11,7 @@
         <repository>
             <id>github</id>
 
-            <url>https://maven.pkg.github.com/shaiksattarhadi/github-example-package</url>
+            <url>https://maven.pkg.github.com/shaiksattarhadi/github-sample</url>
         </repository>
     </distributionManagement>
     <developers>
@@ -19,16 +19,16 @@
             <name>shaiksattarhadi</name>
             <email>sattarhadis586@gmail.com</email>
             <organization>com.github.shaiksattarhadi</organization>
-            <organizationUrl>https://github.com/shaiksattarhadi/github-example-package</organizationUrl>
+            <organizationUrl>https://github.com/shaiksattarhadi/github-sample</organizationUrl>
         </developer>
     </developers>
 
     <scm>
-        <connection>scm:git:git://github.com/shaiksattarhadi/github-example-package.git</connection>
-        <developerConnection>scm:git:https://github.com/shaiksattarhadi/github-example-package.git
+        <connection>scm:git:git://github.com/shaiksattarhadi/github-sample.git</connection>
+        <developerConnection>scm:git:https://github.com/shaiksattarhadi/github-sample.git
         </developerConnection>
-        <url>https://github.com/shaiksattarhadi/github-example-package</url>
-        <tag>github-example-package</tag>
+        <url>https://github.com/shaiksattarhadi/github-sample</url>
+        <tag>github-sample</tag>
     </scm>
 
     <build>
